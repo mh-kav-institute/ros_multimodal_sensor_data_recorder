@@ -1,0 +1,7 @@
+{
+    "cpu_id": 40,
+    "albs": ["edge_m1", "edge_m2", "edge_m3", "fusion"],
+    "cams": ["uhk1", "uhk2", "uhk3", "uhk4", "uhk5", "uhk6"],
+    "context": ["weather", "lsa"],
+    "recording_dir": "/workspace/data"
+}
